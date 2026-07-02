@@ -137,6 +137,7 @@ This dashboard helps banking institutions:
 Banking-Risk-Analytics/
 │
 ├── Banking Dashboard.pbix
+├── Banking Dashboard.docx
 ├── BankEDA.ipynb
 ├── Banking.csv
 ├── README.md

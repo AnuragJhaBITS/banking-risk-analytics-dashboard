@@ -166,7 +166,7 @@ Banking-Risk-Analytics/
 
 Example:
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Banking_Dashboard.png)
 
 ---
 

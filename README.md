@@ -16,6 +16,16 @@ The project consists of:
 
 ---
 
+## Dashboard Preview
+
+(Add screenshots of your Power BI dashboard here.)
+
+Example:
+
+![Dashboard](dashboard.png)
+
+---
+
 ## Tech Stack
 
 - Python
@@ -160,15 +170,6 @@ Banking-Risk-Analytics/
 
 ---
 
-## Dashboard Preview
-
-(Add screenshots of your Power BI dashboard here.)
-
-Example:
-
-![Dashboard](dashboard.png)
-
----
 
 ## Future Improvements
 
